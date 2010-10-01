@@ -1,21 +1,21 @@
-Do you want to save \xfffethis match in your VS Recoder?
-Yes
-No
-Data will be lost forever\xfffeare you sure?
-Yes
-No
-You will be overwriting your previous battle video\xfffeis that OK?
-Yes
-No
-Your video is now saving.\xfffePlease wait!
-Your match has been saved.
-There was an error\xfffeVideo couldn't be saved.
+Queres guardar \xfffeesta batalha no teu Vs Recorder?
+Sim
+Não
+Os dados vão se perder para sempre\xfffetens a certeza?
+Sim
+Não
+Vais substituir o teu Video de Combate anterior\xfffeTens a certeza?
+Sim
+Não
+O teu video está a ser guardado.\xfffePor favor Aguarde!
+O teu combate foi guardado.
+Houve um erro\xfffeNão foi possivel guardar o Video.
 あいてを　まっています\xfffeしばらく　おまち　ください！
 この　あいてとは　ろくが　できません\xfffeしばらく　おまち　ください！
-You cannot record a match with this opponent.
-You cannot record this match.
-SELECT TIME
-\xf000ȁ\x0001\x0000:\xf000ȁ\x0001\x0001
+Não podes gravar uma batalha com este oponente.
+Não podes gravar esta batalha.
+ＳＥＬＥＣＴ　ＴＩＭＥ
+\xf000ȁ\x0001\x0000xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
 ぜんかいの　きろく
 コロシアム　シングル\xfffeせいげんなし
