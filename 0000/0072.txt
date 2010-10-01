@@ -1,4 +1,4 @@
-もう１つのＤＳに　Pocket Monsters\xfffeDiamond, Pearl, Platinum,\xfffeHeart Gold, or Soul Silver\xfffeいずれかの　ソフトを　セットして\xfffeでんげんを　いれた　あとに\xfffeうえがめんを　さんこうに　して\xfffe『DS Download Play』から\xfffe『PokéShifter ID:\xf000Ȅ\x0001\x0000』を\xfffeえらんでください
+もう１つのＤＳに　Pokémon\xfffeDiamond, Pearl, Platinum,\xfffeHeart Gold, or Soul Silver\xfffeいずれかの　ソフトを　セットして\xfffeでんげんを　いれた　あとに\xfffeうえがめんを　さんこうに　して\xfffe『DS Download Play』から\xfffe『PokéShifter ID:\xf000Ȅ\x0001\x0000』を\xfffeえらんでください
 もう１つの　ＤＳに\xfffeデータを　おくっています
 もう１つの　ＤＳで\xfffeポケモンを　えらんでください
 PokéShifter　きどうちゅう
@@ -16,8 +16,8 @@ Pocket Monsters White\xfffePokéShifter Program
 Transfer Machine ID:\xf000Ȅ\x0001\x0000
 Pocket Monsters Black\xfffeTransfer Machine Program
 Pocket Monsters White\xfffeTransfer Machine Program
-Yes
-No
+Sim
+Não
 もう１つのＤＳに　Pocket Monsters\xfffeDiamond, Pearl, Platinum,\xfffeHeart Gold, or Soul Silver\xfffeいずれかの　ソフトを　セットして\xfffeでんげんを　いれた　あとに\xfffeしたがめんを　さんこうに　して\xfffe『DS Download Play』から\xfffe『Transfer Machine ID:\xf000Ȅ\x0001\x0000』を\xfffeえらんでください\xfffeB Button: Cancel
 Transfer Machine　きどうちゅう！\xfffeしばらく　おまちください
 えいがのポケモンが　\xf000Ȃ\x0001\x0000ひき　います\xfffe\xf000Ȃ\x0001\x0000ひき　すべてを\xf000븁\x0000ポケットモンスターブラックに\xfffeつれてきますが　よろしいですか？
@@ -41,5 +41,5 @@ Transfer Machine　きどうちゅう！\xfffeしばらく　おまちくださ�
 てんそうできる　ものが　\xfffeありませんでした\xf000븁\x0000
 ただしいソフトが　\xfffeセットされていません\xfffeてんそうマシンを　しゅうりょうします\xf000븁\x0000
 てんそうマシンを　ちゅうししますか？
-Initialize\xfffeDS Wireless Connection?
+Iniciar\xfffeconecção Wireless?
 レポートを　よみこむことが\xfffeできませんでした\xfffeレポートが　かかれていないか\xfffeこわれている　かのうせいがあります\xf000븁\x0000てんそうマシンを　しゅうりょうします\xf000븁\x0000
