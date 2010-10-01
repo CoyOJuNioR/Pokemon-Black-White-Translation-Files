@@ -1,10 +1,10 @@
 ▲
 Pokédex
 Pokémon
-Bag
-TrainerCard
-Save
-Options
+Mochila
+Treinador 
+Gravar
+Opções
 　
 Chat
 　
