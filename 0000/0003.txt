@@ -10,8 +10,8 @@ Não
 O teu video está a ser guardado.\xfffePor favor Aguarde!
 O teu combate foi guardado.
 Houve um erro\xfffeNão foi possivel guardar o Video.
-あいてを　まっています\xfffeしばらく　おまち　ください！
-この　あいてとは　ろくが　できません\xfffeしばらく　おまち　ください！
+A esperar por um oponente\xfffe Por favor aguarde!
+O teu oponente ainda não está pronto\xfffe Por favor aguarde!
 Não podes gravar uma batalha com este oponente.
 Não podes gravar esta batalha.
 ＳＥＬＥＣＴ　ＴＩＭＥ
