@@ -17,13 +17,13 @@ Usar
 Nao haverá nenhum efeito!
 Está rodeado em uma névoa branca!\xfffe
 \xf000Ă\x0001\x0000 \xfffeestá a ser atacado!
-O Ataque do\xf000Ă\x0001\x0000 \xfffe aumentou!
-O Ataque especial do\xf000Ă\x0001\x0000 \xfffe aumentou!
-A Velocidade do\xf000Ă\x0001\x0000 \xfffe aumentou!
+O Ataque do \xf000Ă\x0001\x0000 \xfffe aumentou!
+O Ataque especial do \xf000Ă\x0001\x0000 \xfffe aumentou!
+A Velocidade do \xf000Ă\x0001\x0000 \xfffe aumentou!
 A Defesa especial do\xf000Ă\x0001\x0000 \xfffe aumentou!
-A Defesa do\xf000Ă\x0001\x0000 \xfffe aumentou!
+A Defesa do \xf000Ă\x0001\x0000 \xfffe aumentou!
 A Precisão do\xf000Ă\x0001\x0000's\xfffe aumentou!
-O\xf000ĉ\x0001\x0000\xfffefoi usado!
+O \xf000ĉ\x0001\x0000\xfffefoi usado!
 Não!É impossível acertar\xfffeem 2 pokémon!
 Não há espaço no PC!
 O efeito vem do(a)\xf000ć\x0001\x0001 usado no\xfffe\xf000Ă\x0001\x0000!
