@@ -1,48 +1,46 @@
-やせいの　ポケモンと　すこし\xfffeそうぐうしやすく　なります\xfffeこうかは　３ふん　です
-やせいの　ポケモンと　とても\xfffeそうぐうしやすく　なります\xfffeこうかは　３ふん　です
-やせいの　ポケモンと　かなり\xfffeそうぐうしやすく　なります\xfffeこうかは　３ふん　です
-やせいの　ポケモンと　すこし\xfffeそうぐうしづらく　なります\xfffeこうかは　３ふん　です
-やせいの　ポケモンと　とても\xfffeそうぐうしづらく　なります\xfffeこうかは　３ふん　です
-やせいの　ポケモンと　かなり\xfffeそうぐうしづらく　なります\xfffeこうかは　３ふん　です
-あるいているときに　タマゴが\xfffeすこし　かえりやすく　なります\xfffeこうかは　３ふん　です
-あるいているときに　タマゴが\xfffeとても　かえりやすく　なります\xfffeこうかは　３ふん　です
-あるいているときに　タマゴが\xfffeかなり　かえりやすく　なります\xfffeこうかは　３ふん　です
-ポケモンが　すこし\xfffeなつきやすく　なります\xfffeこうかは　３ふん　です
-ポケモンが　とても\xfffeなつきやすく　なります\xfffeこうかは　３ふん　です
-ポケモンが　かなり\xfffeなつきやすく　なります\xfffeこうかは　３ふん　です
-フレンドリィショップで\xfffe１０％オフの　やすうりが　はじまります\xfffeこうかは　３ふん　です
-フレンドリィショップで\xfffe２５％オフの　やすうりが　はじまります\xfffeこうかは　３ふん　です
-フレンドリィショップで\xfffe５０％オフの　やすうりが　はじまります\xfffeこうかは　３ふん　です
-このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffeたいりょくが　すこし　かいふくします
-このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffeたいりょくが　とても　かいふくします
-このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffeたいりょくが　かなり　かいふくします
-このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffeＰＰが　すこし　かいふくします
-このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffeＰＰが　とても　かいふくします
-このパワーを　つかうと\xfffeそのばで　せんとうにいる　ポケモンの\xfffeＰＰが　かなり　かいふくします
-たたかったあと　もらえる　けいけんちが\xfffeすこし　あがります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　けいけんちが\xfffeとても　あがります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　けいけんちが\xfffeかなり　あがります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　けいけんちが\xfffeすこし　へります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　けいけんちが\xfffeとても　へります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　けいけんちが\xfffeかなり　へります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　おこづかいが\xfffeすこし　あがります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　おこづかいが\xfffeとても　あがります\xfffeこうかは　３ふん　です
-たたかったあと　もらえる　おこづかいが\xfffeかなり　あがります\xfffeこうかは　３ふん　です
-ポケモンを　ほかくする　かくりつが\xfffeすこし　あがります\xfffeこうかは　３ふん　です
-ポケモンを　ほかくする　かくりつが\xfffeとても　あがります\xfffeこうかは　３ふん　です
-ポケモンを　ほかくする　かくりつが\xfffeかなり　あがります\xfffeこうかは　３ふん　です
-あるいているときに　タマゴが\xfffeかなり　かえりやすく　なります\xfffeこうかは　３０ふん　です
-フレンドリィショップで\xfffe５０％オフの　やすうりが　はじまります\xfffeこうかは　３０ふん　です
-ポケモンが　かなり\xfffeなつきやすく　なります\xfffeこうかは　３０ふん　です
-たたかったあと　もらえる　けいけんちが\xfffeかなり　あがります\xfffeこうかは　３０ふん　です
-たたかったあと　もらえる　おこづかいが\xfffeかなり　あがります\xfffeこうかは　３０ふん　です
-ポケモンを　ほかくする　かくりつが\xfffeかなり　あがります\xfffeこうかは　３０ふん　です
-このパワーを　うけとると\xfffeてもちにいる　すべての　ポケモンが\xfffeぜんかい　します
-あるいているときに　タマゴが\xfffeかなり　かえりやすく　なります\xfffeこうかは　６０ふん　です
-フレンドリィショップで\xfffe５０％オフの　やすうりが　はじまります\xfffeこうかは　６０ふん　です
-ポケモンが　かなり\xfffeなつきやすく　なります\xfffeこうかは　６０ふん　です
-たたかったあと　もらえる　けいけんちが\xfffeかなり　あがります\xfffeこうかは　６０ふん　です
-たたかったあと　もらえる　おこづかいが\xfffeかなり　あがります\xfffeこうかは　６０ふん　です
-ポケモンを　ほかくする　かくりつが\xfffeかなり　あがります\xfffeこうかは　６０ふん　です
-ダミー
-ダミー
+The wild pokemon\xfffeare easier to encounter \xfffethe effect lasts 3 minutes
+Quite wild Pokemon \xfffe easier to encounter \ xfffe effect is three minutes
+Quite wild Pokemon \xfffe easier to encounter \ xfffe effect is three minutes
+The wild pokemon\xfffewill be difficult to encounter \xfffethe effect lasts 3 minutes
+Quite wild Pokemon \xfffe be difficult to encounter \xfffethe effect lasts 3 minutes
+Quite wild Pokemon \xfffe be difficult to encounter \xfffethe effect lasts 3 minutes
+When walking with an egg\xfffeIt is much easier to hatch \xfffethe effect lasts 3 minutes
+When walking with an egg\xfffeIt is much easier to hatch \xfffethe effect lasts 3 minutes
+When walking with an egg\xfffeIt is much easier to hatch \xfffethe effect lasts 3 minutes
+Pokemon is a little \xfffe helps Natsuki \xfffe effect is three minutes
+Pokemon is so \xfffe helps Natsuki \xfffe effect is three minutes
+Pokemon is quite \xfffe helps Natsuki \xfffe effect is three minutes
+The Friendly \xfffe10% discount we are starting off \xfffe effect is three minutes
+The Friendly \xfffe25% discount we are starting off \xfffe effect is three minutes
+The Friendly \xfffe50% discount we are starting off \xfffe effect is three minutes
+With this power \xfffe are at the beginning of Pokemon on the fly \xfffe recover a little strength
+With this power \xfffe are at the beginning of Pokemon on the fly \xfffe quite recovered their strength
+With this power \xfffe are at the beginning of Pokemon on the fly \xfffe quite recover their strength
+With this power \xfffe are at the beginning of Pokemon on the fly \xfffePP recovers slightly
+With this power \xfffe are at the beginning of Pokemon on the fly \xfffePP really recovered
+With this power \xfffe are at the beginning of Pokemon on the fly \xfffePP significantly restored
+After the battle get EXP \xfffe a little bit \xfffe effect is three minutes
+After the battle get EXP \xfffe increases so \xfffe effect is three minutes
+After the battle get EXP \xfffe increase considerably \xfffe effect is three minutes
+After the battle get EXP \xfffe little less \xfffe effect is three minutes
+After the battle get EXP \xfffe less so \xfffe effect is three minutes
+After the battle get EXP \xfffe much less \xfffe effect is three minutes
+The fighting then get spending money \xfffe a little bit \xfffe effect is three minutes
+The fighting then get spending money \xfffe increases so \xfffe effect is three minutes
+The fighting then get spending money \xfffe increase considerably \xfffe effect is three minutes
+Chance to capture Pokemon \xfffe a little bit \xfffe effect is three minutes
+Chance to capture Pokemon \xfffe increases so \xfffe effect is three minutes
+Chance to capture Pokemon \xfffe increase considerably \xfffe effect is three minutes
+When an egg walk \xfffe much easier to hatch \xfffe effect is 30 minutes
+The Friendly \xfffe50% discount we are starting off \xfffe effect is 30 minutes
+Pokemon is quite \xfffe helps Natsuki \xfffe effect is 30 minutes
+After the battle get EXP \xfffe increase considerably \xfffe effect is 30 minutes
+The fighting then get spending money \xfffe increase considerably \xfffe effect is 30 minutes
+Chance to capture Pokemon \xfffe increase considerably \xfffe effect is 30 minutes
+Upon receiving this power \xfffeall the Pokemon on hand \xfffeis completely recovered
+When walking with an egg\xfffeIt is much easier to hatch \xfffethe effect last 60 minutes
+The Friendly \xfffe50% discount we are starting off \xfffethe effect last 60 minutes
+Pokemon is quite \xfffe helps Natsuki \xfffethe effect last 60 minutes
+The exp gained from battles\xfffeis increased considerably \xfffethe effect last 60 minutes
+The money gained from battle\xfffeis increased considerably \xfffethe effect last 60 minutes
+The chance to capture Pokemon \xfffeis increased considerably \xfffethe effect last 60 minutes
