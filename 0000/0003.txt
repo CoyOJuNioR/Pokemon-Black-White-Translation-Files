@@ -18,44 +18,44 @@ Não podes gravar esta batalha.
 \xf000ȁ\x0001\x0000xf000ȁ\x0001\x0001
 \xf000ȁ\x0001\x0001
 ぜんかいの　きろく
-コロシアム　シングル\xfffeせいげんなし
-コロシアム　シングル\xfffeフラット
-コロシアム　シングル\xfffeせいげんなし シューターあり
-コロシアム　シングル\xfffeフラット　シューターあり
-コロシアム　ダブル\xfffeせいげんなし
-コロシアム　ダブル\xfffeフラット
-コロシアム　ダブル\xfffeせいげんなし シューターあり
-コロシアム　ダブル\xfffeフラット　シューターあり
-コロシアム　トリプル\xfffeせいげんなし
-コロシアム　トリプル\xfffeフラット
-コロシアム　トリプル\xfffeせいげんなし シューターあり
-コロシアム　トリプル\xfffeフラット　シューターあり
-コロシアム　ローテーション\xfffeせいげんなし
-コロシアム　ローテーション\xfffeフラット
-コロシアム　ローテーション\xfffeせいげんなし シューターあり
-コロシアム　ローテーション\xfffeフラット　シューターあり
-コロシアム　マルチ\xfffeせいげんなし
-コロシアム　マルチ\xfffeフラット
-コロシアム　マルチ\xfffeせいげんなし シューターあり
-コロシアム　マルチ\xfffeフラット　シューターあり
+Coliseu Único\xfffeせいげんなし
+Coliseu Único\xfffeフラット
+Coliseu Único\xfffeせいげんなし シューターあり
+Coliseu Único\xfffeフラット　シューターあり
+Coliseu Duplo\xfffeせいげんなし
+Coliseu Duplo\xfffeフラット
+Coliseu Duplo\xfffeせいげんなし シューターあり
+Coliseu Duplo\xfffeフラット　シューターあり
+Coliseu Triplo\xfffeせいげんなし
+Coliseu Triplo\xfffeフラット
+Coliseu Triplo\xfffeせいげんなし シューターあり
+Coliseu Triplo\xfffeフラット　シューターあり
+Coliseu Rotativo\xfffeせいげんなし
+Coliseu Rotativo\xfffeフラット
+Coliseu Rotativo\xfffeせいげんなし シューターあり
+Coliseu Rotativo\xfffeフラット　シューターあり
+Coliseu Multi\xfffeせいげんなし
+Coliseu Multi\xfffeフラット
+Coliseu Multi\xfffeせいげんなし シューターあり
+Coliseu Multi\xfffeフラット　シューターあり
 バトルサブウェイ\xfffeシングル
 バトルサブウェイ\xfffeダブル
 バトルサブウェイ\xfffeマルチ
-ランダムマッチ　フリー\xfffeシングル
-ランダムマッチ　フリー\xfffeダブル
-ランダムマッチ　フリー\xfffeトリプル
-ランダムマッチ　フリー\xfffeローテーション
-ランダムマッチ　フリー\xfffeシューターバトル
-ランダムマッチ　レーティング\xfffeシングル
-ランダムマッチ　レーティング\xfffeダブル
-ランダムマッチ　レーティング\xfffeトリプル
-ランダムマッチ　レーティング\xfffeローテーション
-ランダムマッチ　レーティング\xfffeシューターバトル
-たいかい　シングル\xfffeシューターなし
-たいかい　シングル\xfffeシューターあり
-たいかい　ダブル\xfffeシューターなし
-たいかい　ダブル\xfffeシューターあり
-たいかい　トリプル\xfffeシューターなし
-たいかい　トリプル\xfffeシューターあり
-たいかい　ローテーション\xfffeシューターなし
-たいかい　ローテーション\xfffeシューターあり
+Jogos Aleatórios\xfffeシングル
+Jogos Aleatórios\xfffeダブル
+Jogos Aleatórios\xfffeトリプル
+Jogos Aleatórios\xfffeローテーション
+Jogos Aleatórios\xfffeシューターバトル
+Jogo Aleatório De Avaliação\xfffeシングル
+Jogo Aleatório De Avaliação\xfffeダブル
+Jogo Aleatório De Avaliação\xfffeトリプル
+Jogo Aleatório De Avaliação\xfffeローテーション
+Jogo Aleatório De Avaliação\xfffeシューターバトル
+Queres uma batalha de 1 contra 1?\xfffeシューターなし
+Queres uma batalha de 1 contra 1?\xfffeシューターあり
+Queres uma batalha de 2 contra 2?\xfffeシューターなし
+Queres uma batalha de 2 contra 2?\xfffeシューターあり
+Queres uma batalha de 3 contra 3?\xfffeシューターなし
+Queres uma batalha de 3 contra 3?\xfffeシューターあり
+Queres Rodar?\xfffeシューターなし
+Queres Rodar?\xfffeシューターあり
