@@ -38,24 +38,24 @@ Coliseu Multi\xfffeせいげんなし
 Coliseu Multi\xfffeフラット
 Coliseu Multi\xfffeせいげんなし シューターあり
 Coliseu Multi\xfffeフラット　シューターあり
-バトルサブウェイ\xfffeシングル
-バトルサブウェイ\xfffeダブル
-バトルサブウェイ\xfffeマルチ
-Jogos Aleatórios\xfffeシングル
-Jogos Aleatórios\xfffeダブル
-Jogos Aleatórios\xfffeトリプル
-Jogos Aleatórios\xfffeローテーション
-Jogos Aleatórios\xfffeシューターバトル
-Jogo Aleatório De Avaliação\xfffeシングル
-Jogo Aleatório De Avaliação\xfffeダブル
-Jogo Aleatório De Avaliação\xfffeトリプル
-Jogo Aleatório De Avaliação\xfffeローテーション
-Jogo Aleatório De Avaliação\xfffeシューターバトル
-Queres uma batalha de 1 contra 1?\xfffeシューターなし
-Queres uma batalha de 1 contra 1?\xfffeシューターあり
-Queres uma batalha de 2 contra 2?\xfffeシューターなし
-Queres uma batalha de 2 contra 2?\xfffeシューターあり
-Queres uma batalha de 3 contra 3?\xfffeシューターなし
-Queres uma batalha de 3 contra 3?\xfffeシューターあり
-Queres Rodar?\xfffeシューターなし
-Queres Rodar?\xfffeシューターあり
+バトルサブウェイ\xfffeÚnico
+バトルサブウェイ\xfffeDuplo
+バトルサブウェイ\xfffeTriplo
+Jogos Aleatórios\xfffeÚnico
+Jogos Aleatórios\xfffeDuplo
+Jogos Aleatórios\xfffeTriplo
+Jogos Aleatórios\xfffeRotativo
+Jogos Aleatórios\xfffeMulti
+Jogo Aleatório De Avaliação\xfffeÚnico
+Jogo Aleatório De Avaliação\xfffeDuplo
+Jogo Aleatório De Avaliação\xfffeTriplo
+Jogo Aleatório De Avaliação\xfffeRotativo
+Jogo Aleatório De Avaliação\xfffeMulti
+Queres uma batalha de 1 contra 1?\xfffeSem Rodagem
+Queres uma batalha de 1 contra 1?\xfffeA Rodar
+Queres uma batalha de 2 contra 2?\xfffeSem rodagem
+Queres uma batalha de 2 contra 2?\xfffeA Rodar
+Queres uma batalha de 3 contra 3?\xfffeSem rodagem
+Queres uma batalha de 3 contra 3?\xfffeA Rodar
+Queres Rodar?\xfffeSem rodagem
+Queres Rodar?\xfffeA Rodar
