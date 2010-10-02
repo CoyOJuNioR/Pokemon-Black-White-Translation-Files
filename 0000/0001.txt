@@ -22,7 +22,7 @@ O Ataque especial do \xf000Ă\x0001\x0000 \xfffe aumentou!
 A Velocidade do \xf000Ă\x0001\x0000 \xfffe aumentou!
 A Defesa especial do\xf000Ă\x0001\x0000 \xfffe aumentou!
 A Defesa do \xf000Ă\x0001\x0000 \xfffe aumentou!
-A Precisão do\xf000Ă\x0001\x0000's\xfffe aumentou!
+A Precisão do\xf000Ă\x0001\x0000 \xfffe aumentou!
 O \xf000ĉ\x0001\x0000\xfffefoi usado!
 Não!É impossível acertar\xfffeem 2 pokémon!
 Não há espaço no PC!
