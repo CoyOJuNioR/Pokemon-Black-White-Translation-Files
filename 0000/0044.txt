@@ -29,5 +29,5 @@ E contigo no grupo,\xfffeya são 3!\xf000븁\x0000Bom... Suponho que já tenhas 
 よーし！\xfffeこれで　オーケーと！\xf000븁\x0000
 ちゅうい！\xfffeべつの　ポケモンレポートが　かかれて　いますので\xfffeこれか ら　はじめる 　ぼうけんは\xfffeとちゅうで　レポートを　かくことができません\xfffeそれでも 　よろしいで すか？
 ぼうけんを　はじめる
-メニューに　もどる
-デモをとばす？
+Voltar ao Menu	
+Passar á frente?
