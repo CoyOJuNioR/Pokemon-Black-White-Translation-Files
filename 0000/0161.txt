@@ -44,3 +44,5 @@ Pokemon is quite \xfffe helps Natsuki \xfffethe effect last 60 minutes
 The exp gained from battles\xfffeis increased considerably \xfffethe effect last 60 minutes
 The money gained from battle\xfffeis increased considerably \xfffethe effect last 60 minutes
 The chance to capture Pokemon \xfffeis increased considerably \xfffethe effect last 60 minutes
+Dummy
+Dummy
