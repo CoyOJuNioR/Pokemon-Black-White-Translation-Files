@@ -3,9 +3,9 @@
 チェックちゅう　です\xfffeつうしんを　つづけてください
 せきがいせんつうしんが　\xfffeつながりました！
 つうしんが　きれました\xfffeせきがいせんを　あわせてください
-もどる
-タッチ　スタート
-リズムチェック
+Voltar
+Toque para iniciar
+Verificar ritmo
 Sem Dados
 Sem Dados
 Sem Dados
