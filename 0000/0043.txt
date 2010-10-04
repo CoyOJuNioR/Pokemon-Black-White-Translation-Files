@@ -1,7 +1,7 @@
 Coleccionista
 Atleta
 Rato de biblioteca
-Musico
+Músico
 Produtor
 Viajante
 Cozinheiro
