@@ -1,96 +1,96 @@
-PKMN Trainer
-PKMN Trainer
-Youngster
-Lass
-School Boy
-School Girl
-Tennis Player
-Foot-Baller
-Waiter
-Waitress
-Gym Leader
-Gym Leader
-Gym Leader
-Day-Care Teacher
-Day-Care Student
-Day-Care Student
-Twin Girls
-Pokemon Breeder
-Pokemon Breeder
-Gym Leader
-Gym Leader
-Gym Leader
-Gym Leader
-Gym Leader
-Pokemon Ranger
-Pokemon Ranger
-Worker
-Backpacker
-Backpacker
-Fisherman
-Musician
-Dancer
-Clown
-Artist
-Baker
-Psychic
-Psychic
-Pokemon Trainer
-Pokemon Trainer
+Treinador PKMN 
+Treinador PKMN 
+Jovem
+Moça
+Menino da escola
+Menina da escola
+Jogador de tenis
+Futebolista
+Empregado
+Empregada
+Lider de Ginásio
+Lider de Ginásio
+Lider de Ginásio
+Professora de creche
+Estudante da creche
+Esudante na creche
+Gemeas
+Criador Pokemon 
+Criador Pokemon 
+Lider de Ginásio
+Lider de Ginásio
+Lider de Ginásio
+Lider de Ginásio
+Lider de Ginásio
+Vagabundo Pokemon 
+Vagabundo Pokemon 
+Trabalhador
+Mochileiros
+Mochileiros
+Pescador
+Músico
+Dançarino
+Palhaço
+Artista
+Padeiro
+Psiquico
+Psiquico
+Treinador Pokemon 
+Treinador Pokemon 
 Team Plasma
-PKMN Trainer
-Rich Boy
-Rich Girl
-Pilot
-Worker
-Basketball Player
-Researcher
+Treinador PKMN 
+Rapaz rico
+Rapariga rico
+Piloto
+Trabalhador
+Jogador de Basquetebol
+Investigador
 Team Plasma
-Office Lady
-Elite Trainer
-Elite Trainer
-Karate King
-Researcher
-Soccer Player
-Gym Leader
-Gym Leader
-Gym Leader
-Skin Heads
-Cleaning Member
-Poké Maniac
-Poké Maniac
-Doctor
-Nurse
-Double Team
-Battle Girl
-Parasol Lady
-Business Man
-Business Man
-Pokéfan
-Pokéfan
-Veteran Trainer
-Veteran Trainer
+Mulher de Escritório
+Treinador de Elite
+Treinador de Elite
+Rei do Karaté
+Investigador
+Jogador de Futebol
+Lider de Ginásio
+Lider de Ginásio
+Lider de Ginásio
+Cabeças de Pele
+Membro de Limpeza
+Poké Maniaco
+Poké Maniaco
+Doutor
+Infermeira
+Equipa Dupla
+Rapariga de Batalha
+Senhora com Guarda-sol
+Homem de Negócios
+Homem de Negócios
+Fã Pokémon
+Fã Pokémon
+Treinador Veterano
+Treinador Veterano
 Gangster
-Baseball Player
-Hiker
-Lady
-Gentleman
+Jogador de Basebol
+Montanhista
+Senhora
+Homem
 Team Plasma
-Elite Four
-Elite Four
-Elite Four
-Elite Four
+Elite 4
+Elite 4
+Elite 4
+Elite 4
 Team Plasma
-Railroad Worker
-Swimmer
-Bikini Lady
-Police Officer
-Maid
-Subway Master
-Champion
-Cycling
-Cycling
-Bike-lover
+Trabalhador Ferroviário
+Nadador
+Senhora em Bikini
+Policial
+Criada
+Mestre do Metro
+Campeão
+Biciclista
+Biciclista
+Amante de Bicileta
 ブルジョワールけ
 ブルジョワールけ
 ブルジョワールけ
@@ -98,8 +98,8 @@ Bike-lover
 Game Freak
 ブルジョワールけ
 ブルジョワールけ
-PKMN Trainer
+Treinador PKMN 
 Team Plasma
-Subway Master
-PKMN Trainer
-PKMN Trainer
+Mestre do Metro
+Treinador PKMN 
+Treinador PKMN 
