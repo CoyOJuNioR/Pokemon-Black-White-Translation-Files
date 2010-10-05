@@ -1,12 +1,12 @@
 \xf000Ā\x0001\x0000
 ＩＤ\xf000Ȅ\x0001\x0000
-あと\xf000Ȁ\x0001\x0000にん　ひつよう
-あと\xf000Ȁ\x0001\x0000にん　まで
-マルチバトル　ぼしゅうちゅう！
-ミュージカル　ぼしゅうちゅう！
+Então\xf000Ȁ\x0001\x0000necessita de pessoal
+Então\xf000Ȁ\x0001\x0000にん　まで
+Á procura de uma batalha-Multi!
+Á procura de um musical?
 バトルサブウェイ　ぼしゅうちゅう！
 \xf000Ā\x0001\x0000\xf000봅\x0001FＩＤ：\xf000Ȅ\x0001\x0001
-さんか　メンバーを　まっています\xfffeＢボタン：やめる
+A esperar por membros \xfffeBotão: Sair
 メンバーが　そろったら\xfffeＡボタン：すすむ　Ｂボタン：やめる
 \xf000Ā\x0001\x0000から　れんらくあり！\xfffeメンバーに　しますか？
 このメンバーで　よろしいですか？
@@ -30,8 +30,8 @@
 バトルサブウェイをする　ともだちを\xfffeえらんでください
 メンバーが　そろいました！\xfffeそれでは　こちらへ　どうぞ！
 \xf000Ā\x0001\x0000から　ＮＧとの\xfffeへんじが　きてしまいました…\xf000븂\x0001<
-\xf000Ā\x0001\x0000の　へんじを　まっています\xfffeＢボタン：やめる
+\xf000Ā \x0001 \x0000 á espera de respostas \xfffeBotão B: Sair
 \xf000Ā\x0001\x0000から　ＯＫとの\xfffeへんじが　きました\xf000븂\x0001<
-そのまま　おまちください\xfffeＢボタン：やめる
+Por favor Aguarde \xfffeBotão B: Sair
 メンバーから　ぬけますか？
 つごうが　わるいみたい…\xf000븂\x0001<
