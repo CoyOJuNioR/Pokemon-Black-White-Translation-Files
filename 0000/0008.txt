@@ -43,7 +43,7 @@ Send Photo
 View Photo
 Send
 Choose a Pokémon
-\xf000Ā\x0001\x0000　の　しゃしん\xfffe\xf000Ĝ\x0001\x0001
+\xf000Ā\x0001\x0000 Portraits\xfffe\xf000Ĝ\x0001\x0001
 \xf000Ā\x0001\x0000\xfffe\xf000Ĝ\x0001\x0001
 しゃしん
 Send Box Data
