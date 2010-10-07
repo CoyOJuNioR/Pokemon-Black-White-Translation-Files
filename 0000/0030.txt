@@ -27,7 +27,7 @@ A Velocidade de texto pode ser configurada\xfffe em 3 tipos diferentes.
 Optar por exibir animações de batalha.
 Escolha as normas-padrão\xfffede mudança de Pokémon no campo de batalha.
 Escolha a colocar o som\xfffeem estéreo ou em mono.
-Choose how to display text.\xfffeKanji é uma língua Japonesa.
+Escolha como exibir texto.\xfffeKanji é uma língua Japonesa.
 いつも　むせんで　つうしんするか\xfffeオン／オフが　えらべます
 Ｃギアの　せきがいせんつうしん　まえに\xfffeレポートを　かくかどうか　えらべます
 べつの　レポートが　かかれているので\xfffeへんこう　できません\xf000븁\x0000
