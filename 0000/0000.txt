@@ -62,3 +62,85 @@ Ler
 Jogo
 Sono
 Popular
+Rock
+Jazz
+Rap
+Classico
+Noticias
+Drama
+Comedia
+Desportos
+Anime
+Acção
+SF
+Amor
+Suspense
+Comedia
+Horror
+Basebol
+Futebol
+Basquetebol
+Futebol
+Hockey
+Artes Marciais
+Vermelho
+Verde
+Azul
+Amarelo
+Branco
+Preto
+Fitness
+Ler
+Musica
+Filmes
+Viagem
+Cozinhar
+Pescar
+Jogos
+Estudante
+Secretario
+Criador
+Empregado
+Govt. Oficial
+Ama
+Artista
+Trabalho
+Podda
+Dento
+Koon
+Aloe
+Arti
+Kamitsure
+Yacon
+Fuuro
+Hachiku
+Iris
+Shaga
+Normal
+Fogo
+Água
+Electricidade
+Erva
+Gelo
+Luta
+Veneno
+Terra
+Voador
+Psiquico
+Insecto
+Rocha
+Fantasma
+Dragão
+Escuro
+Aço
+0 - 10 hours
+10 - 20 hours
+20 - 30 hours
+30 - 40 hours
+40 - 50 hours
+50 - 60 hours
+60 - 70 hours
+70 - 80 hours
+80 - 90 hours
+90 - 100 hours
+100  hours
