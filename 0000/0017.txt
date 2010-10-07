@@ -63,8 +63,8 @@ Oh, não!\xfffeO Pokémon saiu livremente!
 Aww!\xfffeParecia ser capturado!
 Aargh!\xfffeQuase o tinha!
 Lança!\xfffeFoi por pouco!
-Apanhado!\xfffe\xf000ā\x0001\x0000 foi apanhado!
-Os dados do\xf000ā\x0001\x0000 foram \xfffeaderidos á Pokédex!
+Apanhado!O \xfffe\xf000ā\x0001\x0000 foi apanhado!
+Os dados do \xf000ā\x0001\x0000 foram \xfffeaderidos á Pokédex!
 O treinador bloqueou a Pokébola!\xf000븁\x0000Não sejas ladrão!
 Mas não teve nehum efeito!
 O que vai \xf000Č\x0001\x0000 fazer?
@@ -74,11 +74,11 @@ Escapou a salvo!
 にげられなかった！
 Não podes fugir!
 やせいの　\xf000Ă\x0001\x0000は\xfffeにげだした！
-Não! Não dá para fugir\xfffenum combate!
+Não! Não dá para fugir \xfffenum combate!
 Queres\xfffe desistir?
 É bastante eficaz!
 Não é muito eficaz...
-Magou-se a si mesmo na sua\xfffeconfusão!
+Magou-se a si mesmo na sua \xfffeconfusão!
 きゅうしょに　あたった！
 しかし　わざの　のこりポイントが\xfffeなかった！
 たすけにきた　\xf000Ā\x0001\x0000の　おかげで\xfffe\xf000Ă\x000 1\x0001の\xf000븀\x0000たいりょくが　かいふくした！
