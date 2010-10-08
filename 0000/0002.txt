@@ -44,11 +44,11 @@ Ataque
 \xf000Ȃ\x0001\x0000
 Defesa
 \xf000Ȃ\x0001\x0000
-Ataque Esp.
+Ataq. Esp.
 \xf000Ȃ\x0001\x0000
-Def Esp.
+Def. Esp.
 \xf000Ȃ\x0001\x0000
-Rapidez
+Veloc.
 \xf000Ȃ\x0001\x0000
 \xf000ć\x0001\x0000
 PP
@@ -84,24 +84,24 @@ Movimentos HM não podem ser\xfffeesquecidos agora.
 \xf000ć\x0001\x0000
 \xf000ȁ\x0001\x0000
 \xf000ȁ\x0001\x0000
-\xf000Ă\x0001\x0000 \xfffejá está na luta!
-\xf000Ă\x0001\x0000 Não têm energia disponível para lutar!
-\xf000Ă\x0001\x0000 \xfffenão pode ser substituido!
+O \xf000Ă\x0001\x0000 \xfffejá está a combater!
+O \xf000Ă\x0001\x0000 Não tem energia disponível para combater!
+O \xf000Ă\x0001\x0000 \xfffenão pode ser substituido!
 Um ovo não pode lutar!
 Não podes substituir um dos pokemon do teu parceiro por um dos teus!
 Não terá nenhum efeito.
-\xf000Ă\x0001\x0000's　HP foi restaurada por\xfffe\xf000Ȃ\x0001\x0001 pontos!
-\xf000Ă\x0001\x0000 foi curado do seu\xfffeenvenenamento.
-\xf000Ă\x0001\x0000 foi curado do sua\xfffeparalisia.
-\xf000Ă\x0001\x0000's\xfffequeimadura foi curada.
-\xf000Ă\x0001\x0000\xfffefoi descongelado.
+O HP do \xf000Ă\x0001\x0000 foi restaurada por\xfffe\xf000Ȃ\x0001\x0001 pontos!
+O \xf000Ă\x0001\x0000 foi curado do seu\xfffeenvenenamento.
+O \xf000Ă\x0001\x0000 foi curado do sua\xfffeparalisia.
+A queimadura do \xf000Ă\x0001\x0000\xfffe foi curada.
+O \xf000Ă\x0001\x0000\xfffefoi descongelado.
 PP foi restaurado.
-\xf000Ă\x0001\x0000 \xfffetornou-se saudável.
-\xf000Ă\x0001\x0000 \xfffeescapou da sua confusão.
-\xf000Ă\x0001\x0000 \xfffeacabou a sua paixão.
-\xf000Ă\x0001\x0000 \xfffeacordou.
-\xf000Ă\x0001\x0000 Já\xfffefoi selecionado.
+O \xf000Ă\x0001\x0000 \xfffetornou-se saudável.
+O \xf000Ă\x0001\x0000 \xfffeescapou da sua confusão.
+O \xf000Ă\x0001\x0000 \xfffeacabou a sua paixão.
+O \xf000Ă\x0001\x0000 \xfffeacordou.
+O \xf000Ă\x0001\x0000 \xfffeJá foi selecionado.
 Restaurar qual movimento?
-\xf000ć\x0001\x0001's　efeitos previnem o item de ser utilizado em\xfffe\xf000Ă\x0001\x0000!
+\xf000ć\x0001\x0001　efeitos previnem o item de ser utilizado em\xfffe\xf000Ă\x0001\x0000!
 \xf000Ă\x0001\x0000 \xfffeNão pode ser retornado!
 \xf000Ă\x0001\x0000 \xfffejá foi retornado.
