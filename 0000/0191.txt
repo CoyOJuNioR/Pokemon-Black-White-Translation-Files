@@ -1,5 +1,5 @@
 Treinador PKMN 
-Treinador PKMN 
+Treinadora PKMN 
 Jovem
 Moça
 Menino da escola
@@ -13,20 +13,20 @@ Lider de Ginásio
 Lider de Ginásio
 Professora de creche
 Estudante da creche
-Esudante na creche
+Estudante da creche
 Gemeas
 Criador Pokemon 
-Criador Pokemon 
+Criadora Pokemon 
 Lider de Ginásio
 Lider de Ginásio
 Lider de Ginásio
 Lider de Ginásio
 Lider de Ginásio
 Vagabundo Pokemon 
-Vagabundo Pokemon 
+Vagabunda Pokemon 
 Trabalhador
 Mochileiros
-Mochileiros
+Mochileiras
 Pescador
 Músico
 Dançarino
@@ -36,7 +36,7 @@ Padeiro
 Psiquico
 Psiquico
 Treinador Pokemon 
-Treinador Pokemon 
+Treinadora Pokemon 
 Team Plasma
 Treinador PKMN 
 Rapaz rico
@@ -48,7 +48,7 @@ Investigador
 Team Plasma
 Mulher de Escritório
 Treinador de Elite
-Treinador de Elite
+Treinadora de Elite
 Rei do Karaté
 Investigador
 Jogador de Futebol
@@ -58,7 +58,7 @@ Lider de Ginásio
 Cabeças de Pele
 Membro de Limpeza
 Poké Maniaco
-Poké Maniaco
+Poké Maniaca
 Doutor
 Infermeira
 Equipa Dupla
@@ -69,7 +69,7 @@ Homem de Negócios
 Fã Pokémon
 Fã Pokémon
 Treinador Veterano
-Treinador Veterano
+Treinadora Veterana
 Gangster
 Jogador de Basebol
 Montanhista
@@ -102,4 +102,4 @@ Treinador PKMN
 Team Plasma
 Mestre do Metro
 Treinador PKMN 
-Treinador PKMN 
+Treinadora PKMN 
