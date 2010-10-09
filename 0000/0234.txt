@@ -45,23 +45,23 @@ Mais Pesado
 Mais Leve
 Mais Alto
 Mais Baixo
-Dark
-Rock
-Psychic
-Fight
-Grass
-Ice
-Ghost
-Ground
-Electric
-Poison
-Dragon
+Escuro
+Rocha
+Psíquico
+Lutador
+Erva
+Gelo
+Fantasma
+Terra
+Eléctrico
+Venenoso
+Dragão
 Normal
-Steel
-Flying
-Fire
-Water
-Bug
+Aço
+Voador
+Fogo
+Água
+Insecto
 ーーーー
 Johto
 Kanto
