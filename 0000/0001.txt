@@ -1,6 +1,25 @@
+ＨＰ／ＰＰ
+Restore
+Estado
+Tratamentos
+ＨＰ／ＰＰ
+Restoraurar
+Itens de Combate
+PokéBolas
+Item usado antes
+\xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
 \xf000ĉ\x0001\x0000
 ×\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+×\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+×\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+×\xf000Ȃ\x0001\x0000
+\xf000ĉ\x0001\x0000
+×\xf000Ȃ\x0001\x0000
+
 Próximo
 ＨＰ／ＰＰ
 Recuperar
