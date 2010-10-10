@@ -98,24 +98,24 @@
 まだ　みらいは　みえない……\xfffeせかいは　きまっていない……
 プラーズマー！\xfffeまけちまった！？
 こんな　ヤツらに\xfffeプラズマだんが　やぶれるとは……！
-やっと　トレーナーになれた……\xfffeここから　はじまる！
-まだまだ！　このときのため\xfffeポケモンについて　まなんでいたんだ！
-……！　これが\xfffeポケモンしょうぶ　なんだ！
-やっと　トレーナーになれた……\xfffeここから　はじまる！
-まだまだ！　このときのため\xfffeポケモンについて　まなんでいたんだ！
-……！　これが\xfffeポケモンしょうぶ　なんだ！
-やっと　トレーナーになれた……\xfffeここから　はじまる！
-まだまだ！　このときのため\xfffeポケモンについて　まなんでいたんだ！
-……！　これが\xfffeポケモンしょうぶ　なんだ！
-きゃっ！！　いったーい！！\xfffeもう　ゆるさないんだから！！
-なんだか　バタバタしちゃって\xfffeうまく　できないよお
-……どっちの　ポケモンも\xfffeすごく　がんばったよね！！
-きゃっ！！　いったーい！！\xfffeもう　ゆるさないんだから！！
-なんだか　バタバタしちゃって\xfffeうまく　できないよお
-……どっちの　ポケモンも\xfffeすごく　がんばったよね！！
-きゃっ！！　いったーい！！\xfffeもう　ゆるさないんだから！！
-なんだか　バタバタしちゃって\xfffeうまく　できないよお
-……どっちの　ポケモンも\xfffeすごく　がんばったよね！！
+I will rely  on my studies...\xfffeI know how to win!
+Yes!　I knew I could do it!\xfffeI really won!
+...!　What?\xfffeHow could I lose!
+I will rely  on my studies...\xfffeI know how to win!
+Yes!　I knew I could do it!\xfffeI really won!
+...!　What?\xfffeHow could I lose!
+I will rely  on my studies...\xfffeI know how to win!
+Yes!　I knew I could do it!\xfffeI really won!
+...!　What?\xfffeHow could I lose!
+Oi!! That must have hurt!\xfffeI won't let you win!!
+I picked the strongest one!\xfffeI knew I'd win!
+...Did I choose the right Pokemon?\xfffeI tried my best!!
+Oi!! That must have hurt!\xfffeI won't let you win!!
+I picked the strongest one!\xfffeI knew I'd win!
+...Did I choose the right Pokemon?\xfffeI tried my best!!
+Oi!! That must have hurt!\xfffeI won't let you win!!
+I picked the strongest one!\xfffeI knew I'd win!
+...Did I choose the right Pokemon?\xfffeI tried my best!!
 もっと！　キミの　ポケモンの\xfffeこえを　きかせてくれ！
 そんな　ことを　いう\xfffeポケモンが　いるのか……！？
 わたしの　エスパーポケモンが\xfffeなぜか　さわぎだした……\xf000븁\x0000いせきの　なか　だからか\xfffeそれとも　きみの　せいなのか？\xf000븁\x0000
@@ -124,35 +124,35 @@
 この　ばしょに　いるだけで\xfffeふしぎな　ちからが　あふれてくる……\xf000븁\x0000
 きみにも　ふしぎな　ちからが\xfffeみちているようね……
 れきしのある　ばしょには\xfffeふしぎな　エネルギーが　のこる……\xf000븁\x0000わたしには　それが　わかるわ\xfffeおおくの　かなしみに　よろこび……
-オレの　ポケモンに\xfffeそんなの　きくかよ！
-まだまだ！　のこり１ぴき！\xfffeここから　きあいだぜ！
-まいったぜ……\xf000븁\x0000も　　　え　　　つ　　　き　　　た！
-なるほど！\xfffeいい　こうげき　かもしれませんね
-さいごの　ポケモンに\xfffeコーンの　すべてを　かけましょう！
-まいったな……\xfffeこの　コーンが　やぶれるとは
-ああ！\xfffeぼくの　ポケモン！
-……あれ？　もしかして\xfffeぼくの　ポケモン　あと１ぴき？
-……えーっと\xfffeおわっちゃいました？
+That won't work on\xfffemy Pokémon!
+It's not over yet!　I still have one\xfffePokémon! I'm all fired up!
+The flame...\xf000븁\x0000IT'S GONE!
+Oh!\xfffeThat was a good attack.
+The final Pokémon of Korn\xfffewill give its all!
+Wow...\xfffeI, Korn, have lost.
+Ahh!\xfffeMy Pokémon!
+Wait, what?　Do I only\xfffehave one Pokémon left?
+Well...\xfffeIt's over, huh?
 ようこそ　いらっしゃいませ\xfffeサンヨウジムへ！\xf000븁\x0000ここでは　しょうぶの　きほんを\xfffeあじわって　いただきます\xf000븁\x0000
 なんともまあ\xfffeすばらしい　トレーナーさま　ですね！
 タイプの　あいしょうを　きにせず\xfffeつよく　きたえあげた　ポケモンで\xf000븀\x0000かちすすむのも　ありだと　おもいます
 サンヨウジム　じまんの\xfffeトレーナー　フルコース！\xf000븀\x0000ふたりめは　わたくしで　ございます\xf000븁\x0000
 わたくしとの　しょうぶ\xfffeたのしんで　いただけましたか？
 サンヨウジム　じまんの\xfffeトレーナー　フルコース！\xf000븀\x0000さいごは　ジムリーダーです
-いまので　アンタが　どんな\xfffeトレーナーなのか　みえてきたよ！
-こんな　じょうきょうでも\xfffeかつ　しゅだんを　さぐるのさ！
-たいしたもんだよ\xfffeアンタ　ほれちゃうじゃないか！
+Now i can see what kind\xfffeof trainer you are!
+In this kind of situation,\xfffeI always find a way to win!
+That's the kind of\xfffebattle that I love!
 シッポウジムに　いりびたり\xfffeほんのむしと　よばれた　ボク\xf000븁\x0000いっておきますが　つよいですよ\xfffeボクの　いちにちって　ほんをよむか\xf000븀\x0000ポケモンをそだてるか　ですから\xf000븁\x0000
 ほんのむし　といっても\xfffeむしタイプの　ポケモンではないです
 さいしょの　おすすめの　ほんは\xfffe「はじめまして　ポケモンちゃん」です\xf000븁\x0000じどうしょの　ほんだなは\xfffeいりぐち　ちかくに　ありますよ
 わっわっわー！\xfffeまけたけど　ありがとうございます
 その　つよさ……\xfffeわたしの　ちしきを　うわまわる！
-ビシィッ！！\xfffeスイッチ　はいったよ！！
-まさに　むしのいき……　だね\xfffeいやいや　そんなことないよ！
-ぬうん……！？\xfffeひょっとして　おわり！？
-あなたと　ポケモン……\xfffeはなやかに　かがやいている！
-ドラマチックに　かつには\xfffeピンチが　ひつよう　なのよ
-クラクラさせる　つもりが\xfffeあなたに　しびれさせられたのね
+Oh!\xfffeThe switch has flipped!!
+I'm running short on breath...\xfffebut I'm not ready to lose!
+Huh?!...\xfffeI can;t believe it's over!
+You and your Pokémon...\xfffeare starting to shine!
+I need to be in a pinch\xfffelike this for a dramatic win.
+Now I'm a little dizzy...\xfffeThat was a bright battle.
 まけたとしても\xfffeあわてず　さわがず……　さ
 ウェルカム！\xfffeチャレンジャー！\xf000븁\x0000この　おぼっちゃま　である\xfffeボクが　おあいて　しよう！\xf000븁\x0000
 ジェジェジェジェジェジェッ！\xfffeジェット　コースター！
@@ -161,12 +161,12 @@
 アナタの　ファッション……\xfffeどことなく　カノコタウンっぽいね\xf000븁\x0000
 なんてこと！　ファッションでは\xfffeまさっていたはず　なのに……！？
 きらびやかな　ライモンの\xfffeきらびやかな　ジムを　たばねる\xf000븀\x0000きらびやかすぎる　カミツレさん\xf000븀\x0000アナタも　ファンに　なってよ！
-……ほほう！\xfffeそう　きやがったか
-あきらめるのは　かんたん\xfffeいつだって　できることよ！
-まいったね……　いっておくが\xfffeオレさま　てかげんは　してねえぞ
-アナタが　どんな　トレーナーか\xfffeちょっと　ドキドキするわね
-さいごの　ポケモンだけど……\xfffeぜったいに　あきらめないから！
-アナタと　たたかえて　アタシ\xfffeつよくなれたから……　ありがとうね
+...Whoa!\xfffeI didn't expect this.
+It would easy to give up,\xfffebut that will never happen!
+Oh boy...I guess I\xfffecouldn;t predict this.
+What kind of trainer are you?\xfffeI'm starting to get nervous...
+Down to my last Pokémon...\xfffeWe'll never give up!
+You gave me such a\xfffetough battle... Thank you.
 こどもの　ときからの　あこがれだった\xfffeパイロットになれた　オレは\xf000븀\x0000はんぱなく　つよい！　かかってきな！\xf000븁\x0000
 ゆっくり　こうどが　さがっていく……\xfffeちゃくりく　じゅんびを　します
 あこがれだった　パイロットになり\xfffeゆめが　げんじつに　かわる……\xf000븀\x0000その　おもみも　ここちいいもの　さ
@@ -416,15 +416,15 @@
 きたえに　きたえた　オレさまと\xfffeさらに　きたえた　ポケモンだ！！\xf000븁\x0000
 そりゃそりゃそりゃあ！\xfffeまけたが　げんきのいい　オレさまだ！
 オレさまの　かくとうポケモン！\xfffeためしのいわを　わって　きたえている！
-きみは　つよい！\xfffeいや　きみとポケモンは　つよいな！
-きょくげんで　こそ\xfffeためされる！　きたえられる！
-きみと　ポケモンと！\xfffeすばらしき　コンビネーション！\xf000븀\x0000うるわしき　ゆうじょう！
-ポケモンの　いたみ……\xfffeあたしも　おなじように　かんじる！
-マダよ！　マダマダッ！！\xfffeマダ　あたしたち　たたかえる！！
-ふわあああ……\xfffeちからを　だしきったのに……\xf000븀\x0000まけちゃったんだ　あたしたち！
-……そう　きたか\xfffeたしかに　タフな　あいてだな
-なんの！　ここが　しょうねんば\xfffeぜんしんの　ちが　たぎるわ！！
-やぶれて　わきあがる\xfffeこの　あつき　おもい……\xf000븀\x0000なんと　いえば　よいのか……
+You're strong!\xfffeBoth you and your Pokémon!
+You're taking us to the limit!\xfffethe limit! We've been training for this!
+You and your Pokémon\xfffeare a good combination!\xf000븀\x0000It's a beautiful friendship!
+My Pokémon's pain...\xfffeI feel it too!
+It's not over! It's far from it!\xfffeWe're still gonna fight!
+Man...\xfffeWe're beat...\xf000븀\x0000But hey, you won!
+...You're pretty\xfffetough after all.
+What?!　This is crucial now!\xfffeMy blood is boiling!
+That was such\xfffea heated battle...\xf000븀\x0000A good one too...
 みゃあ　みゃあ　みゃあ！\xf000븁\x0000これって　あそんで！\xfffeあいてして！　って　あいずなの！\xf000븁\x0000
 あいて　してくれて\xfffeありがとうね！
 みゃあ　みゃあ　みゃあ！\xf000븁\x0000ってのは　アタシと　くらしていた\xfffeポケモンの　マネなんだ
@@ -649,13 +649,13 @@
 わしが　とくいなのは\xfffeおおぐい　きょうそう　である！\xf000븁\x0000
 わしが　にがて　なのは\xfffeじつは　ポケモン　である……
 にがてを　こくふく　するため\xfffeここで　しゅぎょう　しておる！
-いい　しょうせつと　おなじで\xfffeたたかいの　でだしは　だいじですよね
-……アタシの　さいしゅうしょうが\xfffeいま　はじまるのですね
-そろそろ　この　ものがたりの\xfffeエピローグが　はじまりますね
+Writing and battling are similar in\xfffethe sense that you need a good start.
+Our final chapter...\xfffebegins now.
+It's almost time\xfffefor the epilogue!
 ……うわあ　アタシ\xfffeしちゃってます　あぜんぼーぜん\xf000븁\x0000いろいろ　ことばは　しっていますが\xfffeうまく　いいあらわせないんですよね\xf000븁\x0000きっと　ことばに　すると\xfffeいまの　きもちとか　それに\xf000븀\x0000とじこめられちゃうから　かなあ\xf000븁\x0000でも　これだけは　いわせてください\xfffeアナタ　グレートです！！
-ここで　その　わざとはね……\xfffeいいねえ　ホレボレするよ
-さてと……　どんな　しょうぶも\xfffeじぶんから　おりたりしないぜ
-まだ　こんな　じょうきょうでも\xfffeかてる　やりかた……　あるはずだぜ
+Your strength...\xfffeIt's fascinating.
+Playtime's over.\xfffeMy Pokémon and I will win together!
+This doesn't look good...\xfffeWe might still have a chance!
 だれかが　かてば\xfffeあいてした　だれかが　まける\xf000븁\x0000それが　しょうぶって　やつだ\xf000븁\x0000いい　しょうぶし　ってのは\xfffeしょうりをえて　じまんするでもなく\xf000븀\x0000やぶれて　とりみだすでもなく\xf000븀\x0000ただ　つぎの　しょうりを　もとめるのさ
 ……つよいな\xfffeそれでこそ　こころおどる！
 ラスト　１ぴき！\xfffeのこりの　ちからを　ふりしぼる！
@@ -1572,22 +1572,22 @@ La strada percorsa non si cambia!\xf000븁\x0000Ma su quella da percorrere\xfffe
 こどもの　クセに……！
 ビクティニの　エネルギーを　あびると\xfffeあらゆる　しょうぶごとに\xf000븀\x0000かつことが　できるのだ！
 しょうりを……\xfffeつかみそこねたか……！
-はじまりかたって　たいせつ　ですよね\xfffeしょうぶも　しょうせつも
-……アタシの　さいしゅうしょうが\xfffeいま　はじまるのですね
-そろそろ　この　ものがたりの\xfffeエピローグが　はじまりますね
+It's important to start off good,\xfffewhile battling and while writing.
+The final chapter...\xfffebegins now.
+It's almost time\xfffefor the epilogue!
 ……うわあ　アタシ　またも\xfffeしちゃってます　あぜんぼーぜん\xf000븁\x0000いろいろ　ことばは　しっていますが\xfffeうまく　いいあらわせないんですよね\xf000븁\x0000きっと　ことばに　すると\xfffeいまの　きもちとか　それに\xf000븀\x0000とじこめられちゃうから　かなあ\xf000븁\x0000でも　これだけは　いわせてください\xfffeアナタ　さらに　グレートです！！
-ここで　その　わざとはね……\xfffeあいかわらず　ホレボレするよ
-さてと……　あらゆる　しょうぶで\xfffeじぶんから　おりたことは　ないぜ
-まだ　こんな　じょうきょうでも\xfffeかてる　やりかた……　あるはずだぜ
+I see...\xfffeYou've grown stronger since last time.
+Playtime's over.\xfffeMy Pokémon and I will win together!
+This doesn't look good...\xfffeWe might still have a chance!
 だれかが　かてば\xfffeあいてした　だれかが　まける\xf000븁\x0000それが　しょうぶって　やつだ\xf000븁\x0000いい　しょうぶし　ってのは\xfffeしょうりをえて　じまんするでもなく\xf000븀\x0000やぶれて　とりみだすでもなく\xf000븀\x0000ただ　つぎの　しょうりを　もとめるのさ
-……あいかわらず　つよいな\xfffeそれでこそ　こころおどる！
-ラスト　１ぴき！\xfffeのこりの　ちからを　ふりしぼる！
-……さいご　かもしれない\xfffeつぎの　わざに　すべてを　こめる！
+That's strong...\xfffeI'm getting pumped!
+My last Pokémon!\xfffePut all your strength into this!
+This could be it...\xfffeLet's give 'em everything we've got!
 さいきょうの　ポケモンなど　いないし\xfffeベストの　くみあわせも　ない……\xf000븁\x0000それゆえ　つねに\xfffeかちつづけるのは　むずかしい\xf000븁\x0000だが　つよさを　もとめる　こころ\xfffeさいきょうを　しりたい　きもち……\xf000븀\x0000それを　わたしは　とうとい　とおもう\xf000븁\x0000そして　それを　もっている\xfffeおまえを　そんけいする
-すてきな　じかんが　はじまる\xfffeこの　しゅんかんが　おきにいり……
-どんなときでも\xfffeあわてず　さわがずに……
-アタクシを　しんじて　たたかう\xfffeポケモンのためにも　あきらめません！
-これまでどおり……\xfffeいえ　これまで　いじょうに\xf000븁\x0000エレガントで　エクセレントな\xfffeトレーナーなのね　アナタ\xf000븁\x0000アナタの　ポケモンにも\xfffeひんが　そなわっていて\xf000븀\x0000おあいてしていて　うれしかったわ
+Now it's time for the\xfffereal battle to begin...
+There's no\xfffeneed to rush...
+We'll keep fighting!\xfffeMy Pokémon won't give up!
+Wow...\xfffeYou beat me again.\xf000븁\x0000You're an excellent and\xfffeelegant trainer.\xf000븁\x0000No matter how strong\xfffeyour Pokémon are now,\xf000븀\x0000it was fun to battle you.
 ……それで\xfffeボクたちを　とめられるのかい！
 さいごの　トモダチ……\xfffeボクに　ゆうきを　わけてくれ！
 せかいは　ボクではなく\xfffeキミを　えらぶと　いうのか！？
@@ -1595,9 +1595,9 @@ La strada percorsa non si cambia!\xf000븁\x0000Ma su quella da percorrere\xfffe
 キミの　ポケモンは\xfffeなんだか　うれしそうだね
 まけるにしても　みえていた\xfffeみらいと　ちがう？　キミは？
 けっかは　いっしょ　だった……\xfffeだが　キミは……　なにものだ？
-ここまで　おいつめられたの\xfffeいついらい　かしら！
-まだまだよ！　こんなに　たのしい\xfffeしょうぶ　かんたんに　おわらせない！
-こんなに　もえあがる\xfffeいっせんを　まじえることが　できて\xf000븀\x0000こころが　たかなっちゃう……！\xf000븁\x0000あなたって　ほんとうに\xfffeすごい　トレーナー　なのね！！
+Wow! Only one Pokémon left!\xfffeAre you maybe...?
+Wow!!! You...\xfffeYou will not win...!
+Hmmm... You beat me...\xfffeThat means only one thing...\xf000븀\x0000You have a strong bond...\xf000븁\x0000... You're just like the little\xfffeboy in the Sinnoh Region.
 あたらしい　ブーツを　かったから\xfffeわざわざ　よごしに　きたのよ\xf000븁\x0000そうね！　しょうぶを　すれば\xfffeもっと　よごれちゃうかも！\xf000븁\x0000
 まっ！　はげしい　しょうぶで\xfffeビチョビチョ　よ！！
 よごれることを　きにしていたら\xfffeブーツに　もうしわけないもの\xf000븁\x0000ポケモンも　おなじじゃない？\xfffeきずつくのは　かわいそうだけど\xf000븀\x0000きずついてこそ　つよくなるの
