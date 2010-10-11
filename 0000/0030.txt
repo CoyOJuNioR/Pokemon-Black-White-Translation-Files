@@ -9,7 +9,7 @@ IR Relatório
 Confirmar
 Sair
 Devagar
-Leve
+Médio
 Rápido
 Ligado
 Desligado
@@ -17,7 +17,7 @@ Mudança
 Configuração
 Estéreo
 Mono
-Normal
+Português
 Kanji
 Escrever
 Desligado
