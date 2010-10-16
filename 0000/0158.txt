@@ -135,7 +135,7 @@ Segundo
 Terceiro
 Quarto
 Quinto
-Seixto
+Inapto
 Apto!
 Inapto!
 Aprendido
