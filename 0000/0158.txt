@@ -177,4 +177,4 @@ SELECT TIME
 つうしんたいきちゅう
 Sim
 Não
-\xf000ĉ\x0001\x0000が　なくなりました
+\xf000ĉ\x0001\x0000 desapareceu.
