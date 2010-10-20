@@ -25,9 +25,9 @@ Este é o Chelon.\xf000븁\x0000É um fanático por \xfffePokémon desde que tin
 E esta é a Bella.\xf000븁\x0000Esta rapariga\xfffesó atrai sarilhos...\xf000븁\x0000Está sempre a discutir com o \xfffeseu pai e sua mãe.\xf000븁\x0000
 E contigo no grupo,\xfffejá são 3!\xf000븁\x0000 Bom... Suponho que já tenhas percebido isso \xfffe, mas continuemos.\xf000븁\x0000
 \xf000Ā\x0001\x0000!\xf000븁\x0000Estás quase pronto para \xfffeentrar no mundo dos pokemon!\xf000븁\x0000Lembra-te que deves seguir em frente,\xfffenão importa o que aconteça.\xf000븁\x0000Não o esqueças!\xf000븁\x0000Bom... Aqui vamos...\xfffee irei ver-te mais tarde.\xf000븁\x0000Vêm ao meu \xfffelaboratório o mais rápido possivel.\xf000븁\x0000Agora,entra no emocionante \xfffemundo dos pokemon!
-ちょっと　まってね……！\xfffeいま　いろいろ　じゅんび　してるから
-よーし！\xfffeこれで　オーケーと！\xf000븁\x0000
-ちゅうい！\xfffeべつの　ポケモンレポートが　かかれて　いますので\xfffeこれか ら　はじめる 　ぼうけんは\xfffeとちゅうで　レポートを　かくことができません\xfffeそれでも 　よろしいで すか？
-ぼうけんを　はじめる
+Espera um segundo...!\xfffeEstou a fazer algumas preparações.
+Okey!\xfffeVamos faze-lo!\xf000븁\x0000
+Aviso!\xfffeTens outro relatório escrito,\xfffeestás prestes a iniciar uma jornada,\xfffenão poderás guardar.\xfffeEstá bem?
+Começar aventura
 Voltar ao Menu	
 Passar á frente?
