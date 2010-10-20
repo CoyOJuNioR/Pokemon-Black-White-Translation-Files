@@ -3,7 +3,7 @@ PT
 Hir
 それでは　ゲームで　つかう　もじは\xfffeひらがな・カタカナに　します\xf000븁 \x0000
 não há dados
-セーブデータを　さくせい　しています\xfffeしばらく　おまちください
+Por favor aguarde...\xfffe
 Olá！\xfffeBem-vindo ao mundo dos pokemon!\xf000븁\x0000
 O meu nome é professora Araragi.\xf000븁\x0000Mas todos me chamam\xfffeProfessora Pokemon.\xf000븁\x0000
 Este mundo está habitado por\xfffecriaturas chamadas pokemon.\xf000븁\x0000Os humanos vivem em harmonia com eles \xfffecomo amigos.\xf000븁\x0000Ás vezes brincamos juntos\xfffe outras vezes trabalhamos em equipa.\xf000븁\x0000
