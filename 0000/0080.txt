@@ -15,8 +15,8 @@ Check Card
 Exit
 Get from a Friend
 Get via Nintendo WFC
-Cancel
-Yes
+Cancelar
+Sim
 No
 Get via Wireless
 Our deliveryman is overloaded with\xfffegifts for you!\xf000븁\x0000Please see him at any Poké Mart and\xfffepick up some of your gifts.
