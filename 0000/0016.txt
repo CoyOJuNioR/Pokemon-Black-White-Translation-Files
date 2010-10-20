@@ -1,162 +1,162 @@
-\xf000Ă\x0001\x0000 fainted!
-The wild \xf000Ă\x0001\x0000 fainted!
-The foe's \xf000Ă\x0001\x0000 fainted!
-\xf000Ă\x0001\x0000 \xffferegained health!
-The wild \xf000Ă\x0001\x0000 \xffferegained health!
-The foe's \xf000Ă\x0001\x0000 \xffferegained health!
-It's super effective against \xf000Ă\x0001\x0000!
-It's super effective against the wild \xf000Ă\x0001\x0000!
-It's super effective against the foe's \xf000Ă\x0001\x0000!
-It's super effective against \xfffe\xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!
-It's super effective against the wild \xfffe\xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!
-It's super effective against the foe's \xfffe\xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!
-It's super effective against \xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001\xfffeand \xf000Ă\x0001\x0002!
-It's super effective against the wild \xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001\xfffeand \xf000Ă\x0001\x0002!
-It's super effective against the foe's \xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001\xfffeand \xf000Ă\x0001\x0002!
-\xf000Ă\x0001\x0000 \xfffeis not very effective...
-The wild \xf000Ă\x0001\x0000 \xfffeis not very effective...
-The foe's \xf000Ă\x0001\x0000 \xfffeis not very effective...
-\xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!\xfffeare not very effective...
-The wild \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!\xfffeare not very effective...
-The foe's \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001!\xfffeare not very effective...
-\xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001 and \xfffe\xf000Ă\x0001\x0002!are not very effective...
-The wild \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001 and \xfffe\xf000Ă\x0001\x0002!are not very effective...
-The foe's \xf000Ă\x0001\x0000 and \xf000Ă\x0001\x0001 and \xfffe\xf000Ă\x0001\x0002!are not very effective...
-But, \xf000Ă\x0001\x0000's attack\xfffedidn't land well!
-But, the wild \xf000Ă\x0001\x0000's attack\xfffedidn't land well!
-But, the foe's \xf000Ă\x0001\x0000 attack\xfffedidn't land well!
-\xf000Ă\x0001\x0000's\xfffeAttack rose!
-The wild \xf000Ă\x0001\x0000's\xfffeAttack rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeAttack rose!
-\xf000Ă\x0001\x0000's\xfffeDefense rose!
-The wild \xf000Ă\x0001\x0000's\xfffeDefense rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeDefense rose!
-\xf000Ă\x0001\x0000's\xfffeSp. Attack rose!
-The wild \xf000Ă\x0001\x0000's\xfffeSp. Attack rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeSp. Attack rose!
-\xf000Ă\x0001\x0000's\xfffeSp. Defense rose!
-The wild \xf000Ă\x0001\x0000's\xfffeSp. Defense rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeSp. Defense rose!
-\xf000Ă\x0001\x0000's\xfffeSpeed rose!
-The wild \xf000Ă\x0001\x0000's\xfffeSpeed rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeSpeed rose!
-\xf000Ă\x0001\x0000's\xfffeAccuracy rose!
-The wild \xf000Ă\x0001\x0000's\xfffeAccuracy rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeAccuracy rose!
-\xf000Ă\x0001\x0000's\xfffeEvasiveness rose!
-The wild \xf000Ă\x0001\x0000's\xfffeEvasiveness rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeEvasiveness rose!
-\xf000Ă\x0001\x0000's Attack\xfffesharply rose!
-The wild \xf000Ă\x0001\x0000's\xfffeAttack sharply rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeAttack sharply rose!
-\xf000Ă\x0001\x0000's\xfffeDefense rose greatly!
-The wild \xf000Ă\x0001\x0000's\xfffeDefense rose greatly!
-The foe's \xf000Ă\x0001\x0000's\xfffeDefense rose greatly!
-\xf000Ă\x0001\x0000's\xfffeSp. Attack rose greatly!
-The wild \xf000Ă\x0001\x0000's\xfffeSp. Attack rose greatly!
-The foe's \xf000Ă\x0001\x0000's\xfffeSp. Attack rose greatly!
-\xf000Ă\x0001\x0000's\xfffeSp. Def rose greatly!
-The wild \xf000Ă\x0001\x0000's\xfffeSp. Def rose greatly!
-The foe's \xf000Ă\x0001\x0000's\xfffeSp. Def rose greatly!
-\xf000Ă\x0001\x0000's\xfffeSpeed rose greatly!
-The wild \xf000Ă\x0001\x0000's\xfffeSpeed rose greatly!
-The foe's \xf000Ă\x0001\x0000's\xfffeSpeed rose greatly!
-\xf000Ă\x0001\x0000's\xfffeAccuracy greatly rose!
-The wild \xf000Ă\x0001\x0000's\xfffeAccuracy greatly rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeAccuracy greatly rose!
-\xf000Ă\x0001\x0000's\xfffeEvasiveness greatly rose!
-The wild \xf000Ă\x0001\x0000's\xfffeEvasiveness greatly rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeEvasiveness greatly rose!
-\xf000Ă\x0001\x0000's\xfffeAttack sharply rose!
-The wild \xf000Ă\x0001\x0000's\xfffeAttack sharply rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeAttack sharply rose!
-\xf000Ă\x0001\x0000's\xfffeDefense sharply rose!
-The wild \xf000Ă\x0001\x0000's\xfffeDefense sharply rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeDefense sharply rose!
-\xf000Ă\x0001\x0000's\xfffeSp. Attack sharply rose!
-The wild \xf000Ă\x0001\x0000's\xfffeSp. Attack sharply rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeSp. Attack sharply rose!
-\xf000Ă\x0001\x0000's\xfffeSp. Defense sharply rose!
-The wild \xf000Ă\x0001\x0000's\xfffeSp. Defense sharply rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeSp. Defense sharply rose!
-\xf000Ă\x0001\x0000's\xfffeSpeed sharply rose!
-The wild \xf000Ă\x0001\x0000's\xfffeSpeed sharply rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeSpeed sharply rose!
-\xf000Ă\x0001\x0000's\xfffeAccuracy sharply rose!
-The wild \xf000Ă\x0001\x0000's\xfffeAccuracy sharply rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeAccuracy sharply rose!
-\xf000Ă\x0001\x0000's\xfffeEvasiveness sharply rose!
-The wild \xf000Ă\x0001\x0000's\xfffeEvasiveness sharply rose!
-The foe's \xf000Ă\x0001\x0000's\xfffeEvasiveness sharply rose!
-\xf000Ă\x0001\x0000's\xfffeAttack fell!
-The wild \xf000Ă\x0001\x0000's\xfffeAttack fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeAttack fell!
-\xf000Ă\x0001\x0000's\xfffeDefense fell!
-The wild \xf000Ă\x0001\x0000's\xfffeDefense fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeDefense fell!
-\xf000Ă\x0001\x0000's\xfffeSp. Attack fell!
-The wild \xf000Ă\x0001\x0000's\xfffeSp. Attack fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeSp. Attack fell!
-\xf000Ă\x0001\x0000's\xfffeSp. Defense fell!
-The wild \xf000Ă\x0001\x0000's\xfffeSp. Defense fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeSp. Defense fell!
-\xf000Ă\x0001\x0000's\xfffeSpeed fell!
-The wild \xf000Ă\x0001\x0000's\xfffeSpeed fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeSpeed fell!
-\xf000Ă\x0001\x0000's\xfffeAccuracy fell!
-The wild \xf000Ă\x0001\x0000's\xfffeAccuracy fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeAccuracy fell!
-\xf000Ă\x0001\x0000's\xfffeEvasiveness fell!
-The wild \xf000Ă\x0001\x0000's\xfffeEvasiveness fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeEvasiveness fell!
-\xf000Ă\x0001\x0000's\xfffeAttack greatly fell!
-The wild \xf000Ă\x0001\x0000's\xfffeAttack greatly fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeAttack greatly fell!
-\xf000Ă\x0001\x0000's\xfffeDefense sharply fell!
-The wild \xf000Ă\x0001\x0000's\xfffeDefense sharply fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeDefense sharply fell!
-\xf000Ă\x0001\x0000's\xfffeSp. Attack greatly fell!
-The wild \xf000Ă\x0001\x0000's\xfffeSp. Attack greatly fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeSp. Attack greatly fell!
-\xf000Ă\x0001\x0000's\xfffeSp. Defense greatly fell!
-The wild \xf000Ă\x0001\x0000's\xfffeSp. Defense greatly fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeSp. Defense greatly fell!
-\xf000Ă\x0001\x0000's\xfffeSpeed greatly fell!
-The wild \xf000Ă\x0001\x0000's\xfffeSpeed greatly fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeSpeed greatly fell!
-\xf000Ă\x0001\x0000's\xfffeAccuracy greatly fell!
-The wild \xf000Ă\x0001\x0000's\xfffeAccuracy greatly fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeAccuracy greatly fell!
-\xf000Ă\x0001\x0000's\xfffeEvasiveness greatly fell!
-The wild \xf000Ă\x0001\x0000's\xfffeEvasiveness greatly fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeEvasiveness greatly fell!
-\xf000Ă\x0001\x0000's\xfffeAttack sharply fell!
-The wild \xf000Ă\x0001\x0000's\xfffeAttack sharply fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeAttack sharply fell!
-\xf000Ă\x0001\x0000's\xfffeDefense sharply fell!
-The wild \xf000Ă\x0001\x0000's\xfffeDefense sharply fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeDefense sharply fell!
-\xf000Ă\x0001\x0000's\xfffeSp. Attack sharply fell!
-The wild \xf000Ă\x0001\x0000's\xfffeSp. Attack sharply fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeSp. Attack sharply fell!
-\xf000Ă\x0001\x0000's\xfffeSp. Defense sharply fell!
-The wild \xf000Ă\x0001\x0000's\xfffeSp. Defense sharply fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeSp. Defense sharply fell!
-\xf000Ă\x0001\x0000's\xfffeSpeed sharply fell!
-The wild \xf000Ă\x0001\x0000's\xfffeSpeed sharply fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeSpeed sharply fell!
-\xf000Ă\x0001\x0000's\xfffeAccuracy sharply fell!
-The wild \xf000Ă\x0001\x0000's\xfffeAccuracy sharply fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeAccuracy sharply fell!
-\xf000Ă\x0001\x0000's\xfffeEvasiveness sharply fell!
-The wild \xf000Ă\x0001\x0000's\xfffeEvasiveness sharply fell!
-The foe's \xf000Ă\x0001\x0000's\xfffeEvasiveness sharply fell!
-\xf000Ă\x0001\x0000's\xfffeAttack won't go higher!
-The wild \xf000Ă\x0001\x0000's\xfffeAttack won't go higher!
-The foe's \xf000Ă\x0001\x0000's\xfffeAttack won't go higher!
-\xf000Ă\x0001\x0000's\xfffeDefense won't go higher!
-The wild \xf000Ă\x0001\x0000's\xfffeDefense won't go higher!
-The foe's \xf000Ă\x0001\x0000's\xfffeDefense won't go higher!
+O \xf000Ă\x0001\x0000 foi derrotado!
+O \xf000Ă\x0001\x0000 selvagem  foi derrotado!
+O Inimigo \xf000Ă\x0001\x0000 foi derrotado!
+O\xf000Ă\x0001\x0000 \xffferecuperou energia!
+O \xf000Ă\x0001\x0000 \xfffeselvagem recuperou energia!
+O Inimigo \xf000Ă\x0001\x0000 \xffferecuperou energia!
+É bastante eficaz contra \xf000Ă\x0001\x0000! \xfffe
+É bastante eficaz contra o  \xf000Ă\x0001\x0000 selvagem! \xfffe
+É bastante eficaz contra o inimigo \xf000Ă\x0001\x0000 \xfffe
+É bastante eficaz contra \xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001!\xfffe
+É bastante eficaz contra o  \xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001selvagem!\xfffe
+É bastante eficaz contra o inimigo  \xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001!\xfffe
+É bastante eficaz contra \xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001\xfffe e \xf000Ă\x0001\x0002!
+É bastante eficaz contra o selvagem \xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001\xfffe e \xf000Ă\x0001\x0002!
+É bastante eficaz contra o inimigo  \xf000Ă\x0001\x0000, \xf000Ă\x0001\x0001\xfffe e \xf000Ă\x0001\x0002!
+\xf000Ă\x0001\x0000 \xfffenão é muito eficaz...
+O  \xf000Ă\x0001\x0000 selvagem \xfffenão é muito eficaz...
+O Inimigo\xf000Ă\x0001\x0000 \xfffenão é muito eficaz...
+\xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001!\xfffenão são muito eficazes...
+Os Selvagens \xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001!\xfffenão são muito eficazes...
+Os Inimigos\xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001!\xfffenão são muito eficazes...
+\xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001 e \xfffe\xf000Ă\x0001\x0002!não são muito eficazes...
+Os Selvagens \xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001 e \xfffe\xf000Ă\x0001\x0002!não são muito eficazes...
+Os Inimigos \xf000Ă\x0001\x0000 e \xf000Ă\x0001\x0001 e \xfffe\xf000Ă\x0001\x0002!não são muito eficazes...
+No entanto, o \xf000Ă\x0001\x0000 ataca\xfffee não fica bem!
+No entanto, o  \xf000Ă\x0001\x0000 selvagem ataca\xfffee não fica bem!
+No entanto, o inimigo \xf000Ă\x0001\x0000ataca\xfffee não fica bem!
+O Ataque do\xf000Ă\x0001\x0000 \xfffeaumentou!
+O Ataque do  \xf000Ă\x0001\x0000 selvagem \xfffeaumentou!
+O Ataque do inimigo \xf000Ă\x0001\x0000 \xfffeaumentou!
+A Defesa do\xf000Ă\x0001\x0000 \xfffeaumentou!
+A Defesa do  \xf000Ă\x0001\x0000 selvagem \xfffeaumentou!
+A Defesa do inimigo \xf000Ă\x0001\x0000 \xfffeaumentou!
+O Ataque esp. do\xf000Ă\x0001\x0000 \xfffeaumentou!
+O Ataque esp. do  \xf000Ă\x0001\x0000 selvagem \xfffeaumentou!
+O Ataque esp. do inimigo\xf000Ă\x0001\x0000 \xfffeaumentou!
+A Defesa esp. do\xf000Ă\x0001\x0000 \xfffeaumentou!
+A Defesa esp. do  \xf000Ă\x0001\x0000 selvagem \xfffeaumentou!
+A Defesa esp. do inimigo \xf000Ă\x0001\x0000 \xfffeaumentou!
+A Velocidade do\xf000Ă\x0001\x0000 \xfffebaixou!
+A Velocidade do  \xf000Ă\x0001\x0000 selvagem \xfffeaumentou!
+A Velocidade do inimigo \xf000Ă\x0001\x0000 \xfffeaumentou!
+A Precisão do\xf000Ă\x0001\x0000 \xfffebaixou!
+A Precisão do  \xf000Ă\x0001\x0000 selvagem \xfffeaumentou!
+A Precisão do inimigo \xf000Ă\x0001\x0000 \xfffeaumentou!
+A Evasão do\xf000Ă\x0001\x0000 \xfffebaixou!
+A Evasão do  \xf000Ă\x0001\x0000 selvagem \xfffeaumentou!
+A Evasão do inimigo \xf000Ă\x0001\x0000 \xfffeaumentou!
+O Ataque do\xf000Ă\x0001\x0000 \xfffeaumentou muito!
+O Ataque do  \xf000Ă\x0001\x0000 selvagem \xfffeaumentou muito!
+O Ataque do inimigo \xf000Ă\x0001\x0000 \xfffeaumentou muito!
+A Defesa do\xf000Ă\x0001\x0000 \xfffeaumentou muito!
+A Defesa do  \xf000Ă\x0001\x0000 selvagem \xfffeaumentou muito!
+A Defesa do inimigo \xf000Ă\x0001\x0000 \xfffeaumentou muito!
+O Ataque esp. do\xf000Ă\x0001\x0000 \xfffeaumentou muito!
+O Ataque esp. do  \xf000Ă\x0001\x0000 selvagem \xfffeaumentou muito!
+O Ataque esp. do inimigo \xf000Ă\x0001\x0000 \xfffeaumentou muito!
+A Defesa esp. do\xf000Ă\x0001\x0000 \xfffeaumentou muito!
+A Defesa esp. do  \xf000Ă\x0001\x0000 selvagem \xfffeaumentou muito!
+A Defesa esp. do inimigo \xf000Ă\x0001\x0000 \xfffeaumentou muito!
+A Velocidade do\xf000Ă\x0001\x0000 \xfffeaumentou muito!
+A Velocidade do  \xf000Ă\x0001\x0000 selvagem \xfffeaumentou muito!
+A Velocidade do inimigo \xf000Ă\x0001\x0000 \xfffeaumentou muito!
+A Precisão do\xf000Ă\x0001\x0000 \xfffeaumentou muito!
+A Precisão do  \xf000Ă\x0001\x0000 selvagem \xfffeaumentou muito!
+A Precisão do inimigo \xf000Ă\x0001\x0000 \xfffeaumentou muito!
+A Evasão do\xf000Ă\x0001\x0000 \xfffeaumentaram muito!
+A Evasão do  \xf000Ă\x0001\x0000 selvagem \xfffeaumentaram muito!
+A Evasão do inimigo\xf000Ă\x0001\x0000 \xfffeaumentaram muito!
+O Ataque do\xf000Ă\x0001\x0000 \xfffeaumentou bruscamente!
+O Ataque do  \xf000Ă\x0001\x0000 selvagem \xfffeaumentou bruscamente!
+O Ataque do inimigo \xf000Ă\x0001\x0000 \xfffeaumentou bruscamente!
+A Defesa do\xf000Ă\x0001\x0000 \xfffeaumentou bruscamente!
+A Defesa do  \xf000Ă\x0001\x0000 selvagem \xfffeaumentou bruscamente!
+A Defesa do inimigo \xf000Ă\x0001\x0000 \xfffeaumentou bruscamente!
+O Ataque esp. do\xf000Ă\x0001\x0000 \xfffeaumentou bruscamente!
+O Ataque esp. do  \xf000Ă\x0001\x0000 selvagem \xfffeaumentou bruscamente!
+O Ataque esp. do inimigo \xf000Ă\x0001\x0000 \xfffeaumentou bruscamente!
+A Defesa esp. do\xf000Ă\x0001\x0000 \xfffeaumentou bruscamente!
+A Defesa esp. do  \xf000Ă\x0001\x0000 selvagem \xfffeaumentou bruscamente!
+A Defesa esp. do inimigo \xf000Ă\x0001\x0000 \xfffeaumentou bruscamente!
+A Velocidade do\xf000Ă\x0001\x0000 \xfffeaumentou bruscamente!
+A Velocidade do  \xf000Ă\x0001\x0000 selvagem \xfffeaumentou bruscamente!
+A Velocidade do inimigo \xf000Ă\x0001\x0000 \xfffeaumentou bruscamente!
+A Precisão do\xf000Ă\x0001\x0000 \xfffeaumentou bruscamente!
+A Precisão do  \xf000Ă\x0001\x0000 selvagem \xfffeaumentou bruscamente!
+A Precisão do inimigo \xf000Ă\x0001\x0000 \xfffeaumentou bruscamente!
+A Evasão do\xf000Ă\x0001\x0000 \xfffeaumentaram bruscamente!
+A Evasão do  \xf000Ă\x0001\x0000 selvagem \xfffeaumentaram bruscamente!
+A Evasão do inimigo \xf000Ă\x0001\x0000 \xfffeaumentaram bruscamente!
+O Ataque do\xf000Ă\x0001\x0000 \xfffebaixou!
+O Ataque do  \xf000Ă\x0001\x0000 selvagem \xfffebaixou!
+O Ataque do inimigo \xf000Ă\x0001\x0000 \xfffebaixou!
+A Defesa do\xf000Ă\x0001\x0000 \xfffebaixou!
+A Defesa do  \xf000Ă\x0001\x0000 selvagem \xfffebaixou!
+A Defesa do inimigo \xf000Ă\x0001\x0000 \xfffebaixou!
+O Ataque esp. do\xf000Ă\x0001\x0000 \xfffebaixou!
+O Ataque esp. do  \xf000Ă\x0001\x0000 selvagem \xfffebaixou!
+O Ataque esp. do inimigo \xf000Ă\x0001\x0000 \xfffebaixou!
+A Defesa esp. do\xf000Ă\x0001\x0000 \xfffebaixou!
+A Defesa esp. do  \xf000Ă\x0001\x0000 selvagem \xfffebaixou!
+A Defesa esp. do inimigo \xf000Ă\x0001\x0000 \xfffebaixou!
+A Velocidade do\xf000Ă\x0001\x0000 \xfffebaixou!
+A Velocidade do\xf000Ă\x0001\x0000 selvagem \xfffebaixou!
+A Velocidade do inimigo\xf000Ă\x0001\x0000 \xfffebaixou!
+A Precisão do\xf000Ă\x0001\x0000 \xfffebaixou!
+A Precisão do \xf000Ă\x0001\x0000 selvagem \xfffebaixou!
+A Precisão do inimigo \xf000Ă\x0001\x0000 \xfffebaixou!
+A Evasão do\xf000Ă\x0001\x0000 \xfffebaixou!
+A Evasão do \xf000Ă\x0001\x0000 selvagem\xfffebaixou!
+A Evasão do inimigo \xf000Ă\x0001\x0000 \xfffebaixou!
+O Ataque do\xf000Ă\x0001\x0000 \xfffebaixou muito!
+O Ataque do \xf000Ă\x0001\x0000 selvagem \xfffebaixou muito!
+O Ataque do inimigo \xf000Ă\x0001\x0000 \xfffebaixou muito!
+A Defesa do\xf000Ă\x0001\x0000 \xfffebaixou muito!
+A Defesa do \xf000Ă\x0001\x0000 selvagem \xfffebaixou muito!
+A Defesa do inimigo \xf000Ă\x0001\x0000 \xfffebaixou muito!
+O Ataque esp. do\xf000Ă\x0001\x0000 \xfffebaixou muito!
+O Ataque esp. do \xf000Ă\x0001\x0000 selvagem \xfffebaixou!
+O Ataque esp. do inimigo \xf000Ă\x0001\x0000 \xfffebaixou muito!
+A Defesa esp. do\xf000Ă\x0001\x0000 \xfffebaixou muito!
+A Defesa esp. do \xf000Ă\x0001\x0000 selvagem \xfffebaixou muito!
+A Defesa esp. do inimigo \xf000Ă\x0001\x0000 \xfffebaixou muito!
+A Velocidade do\xf000Ă\x0001\x0000 \xfffebaixou muito!
+A Velocidade do \xf000Ă\x0001\x0000 selvagem \xfffebaixou muito!
+A Velocidade do inimigo \xf000Ă\x0001\x0000 \xfffebaixou muito!
+A Precisão do\xf000Ă\x0001\x0000 \xfffebaixou muito!
+A Precisão do \xf000Ă\x0001\x0000 selvagem \xfffebaixou muito!
+A Precisão do inimigo\xf000Ă\x0001\x0000 \xfffebaixou muito!
+A Evasão do\xf000Ă\x0001\x0000 \xfffebaixou muito!
+A Evasão do \xf000Ă\x0001\x0000 selvagem \xfffebaixou muito!
+A Evasão do inimigo \xf000Ă\x0001\x0000 \xfffebaixou muito!
+O Ataque do\xf000Ă\x0001\x0000 \xfffebaixou bruscamente!
+O Ataque do \xf000Ă\x0001\x0000 selvagem \xfffebaixou bruscamente!
+O Ataque do inimigo \xf000Ă\x0001\x0000 \xfffebaixou bruscamente!
+A Defesa do\xf000Ă\x0001\x0000 \xfffebaixou bruscamente!
+A Defesa do \xf000Ă\x0001\x0000 selvagem \xfffebaixou bruscamente!
+A Defesa do inimigo \xf000Ă\x0001\x0000 \xfffebaixou bruscamente!
+O Ataque esp. do\xf000Ă\x0001\x0000 \xfffebaixou bruscamente!
+O Ataque esp. do \xf000Ă\x0001\x0000 selvagem \xfffebaixou bruscamente!
+O Ataque esp. do inimigo \xf000Ă\x0001\x0000 \xfffebaixou bruscamente!
+A Defesa esp. do\xf000Ă\x0001\x0000 \xfffebaixou bruscamente!
+A Defesa esp. do \xf000Ă\x0001\x0000 selvagem \xfffebaixou bruscamente!
+A Defesa esp. do inimigo \xf000Ă\x0001\x0000 \xfffebaixou bruscamente!
+A Velocidade do\xf000Ă\x0001\x0000 \xfffebaixou bruscamente!
+A Velocidade do \xf000Ă\x0001\x0000 selvagem \xfffebaixou bruscamente!
+A Velocidade do inimigo \xf000Ă\x0001\x0000 \xfffebaixou bruscamente!
+A Precisão do\xf000Ă\x0001\x0000 \xfffebaixou bruscamente!
+A Precisão do \xf000Ă\x0001\x0000 selvagem\xfffebaixou bruscamente!
+A Precisão do inimigo\xf000Ă\x0001\x0000 \xfffebaixou bruscamente!
+A Evasão do\xf000Ă\x0001\x0000 \xfffebaixou bruscamente!
+A Evasão do \xf000Ă\x0001\x0000 selvagem \xfffebaixou bruscamente!
+A Evasão do inimigo \xf000Ă\x0001\x0000 \xfffebaixou bruscamente!
+O Ataque do\xf000Ă\x0001\x0000 \xfffenão sobe mais!
+O Ataque do \xf000Ă\x0001\x0000 selvagem \xfffenão sobe mais!
+O Ataque do inimigo \xf000Ă\x0001\x0000 \xfffenão sobe mais!
+A Defesa do \xf000Ă\x0001\x0000 \xfffenão sobe mais!
+A Defesa do \xf000Ă\x0001\x0000 selvagem \xfffenão sobe mais!
+A Defesa do inimigo\xf000Ă\x0001\x0000 \xfffenão sobe mais!
 \xf000Ă\x0001\x0000's\xfffeSp. Attack won't go higher!
 The wild \xf000Ă\x0001\x0000's\xfffeSp. Attack won't go higher!
 The foe's \xf000Ă\x0001\x0000's\xfffeSp. Attack won't go higher!
