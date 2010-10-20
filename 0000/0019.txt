@@ -8,6 +8,6 @@
 ／
 \xf000ȁ\x0001\x0000
 Gravando o jogo! \xfffePor favor aguarde!
-Os dados guardados estão corrumpidos.\xfffeさいせいを　ちゅうだん　します！
-Avançando! xfffePor favor espera!
-Em pausa...\xfffePor favor espera!
+Os dados guardados estão corrompidos,\xfffeo save anterior vai ser carregado.
+A avançar! xfffePor favor aguarde!
+Em pausa...\xfffePor favor aguarde!
