@@ -25,7 +25,7 @@ Nao ha Gifts para receber.
 O teu pedido foi recusado.
 Nao tens espaco para\xfffemais Wonder Cards.\xf000븁\x0000Nao podes receber mais Gifts.
 There was a problem with\xfffereceiving the gift.\xf000븁\x0000Carrega no A para voltar\xfffepara o ecra inicial.
-Um Gift foi encontrado, mas nao pode\xfffeser recebido usando esta versao.\xf000?\x0000Carrega no A para voltar\xfffeao ecra inicial.
+Um Gift foi encontrado, mas nao pode\xfffeser recebido usando esta versao.\xf000븁\x0000Carrega no A para voltar\xfffeao ecra inicial.
 A pessoa que estava a partilhar\xfffefoi desconectada...
 ポケモンレンジャーと\xfffeせつぞく　しています
 Carrega no A.
