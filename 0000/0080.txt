@@ -175,7 +175,6 @@ Pokemon Center Nagoya　\xfffeObrigado por vires!\xfffeおくりものは　ゲ�
 Pokemon Center Sapporo　\xfffeObrigado por vires!\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
 Pokemon Center Yokohama \xfffeObrigado por vires!\xfffeおくりものは　ゲームのなかの\xfffeはいたついんから　うけとってね！
 Pokemon World Championships\xfffeさんかしてくれて　Obrigado!\xfffePor favor, recebe o teu Gift\xfffedo homem das entregas\xfffeNo Centro Pokemon.
-ＷＣＳ２０１０に　さんかしてくれて\xfffeObrigado!\xfffePor favor, recebe o teu Gift\xfffedo homem das entregas\xfffeNo Centro Pokemon.\xfffe
 ＷＣＳ２０１１に　さんかしてくれて\xfffeObrigado!\xfffePor favor, recebe o teu Gift\xfffedo homem das entregas\xfffeNo Centro Pokemon.\xfffe
 ＷＣＳ２０１２に　さんかしてくれて\xfffeObrigado!\xfffePor favor, recebe o teu Gift\xfffedo homem das entregas\xfffeNo Centro Pokemon.\xfffe
 ＷＣＳ２０１３に　さんかしてくれて\xfffeObrigado!\xfffePor favor, recebe o teu Gift\xfffedo homem das entregas\xfffeNo Centro Pokemon.\xfffe
@@ -543,6 +542,7 @@ O homem das entregas \xfffetem um Gift para ti!
 ポケパーク２０１８に\xfffeObrigado por vires!\xfffeO homem das entregas \xfffetem um Gift para ti!
 ポケパーク２０１９に\xfffeObrigado por vires!\xfffeO homem das entregas \xfffetem um Gift para ti!
 ポケパーク２０２０に\xfffeObrigado por vires!\xfffeO homem das entregas \xfffetem um Gift para ti!
+O homem das entregas \xfffetem um Gift para ti!
 O homem das entregas \xfffetem um Gift para ti!
 O homem das entregas \xfffetem um Gift para ti!
 O homem das entregas \xfffetem um Gift para ti!
