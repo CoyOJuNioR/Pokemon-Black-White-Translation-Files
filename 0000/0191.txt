@@ -25,8 +25,8 @@ Lider de Ginásio
 Vagabundo Pokemon 
 Vagabunda Pokemon 
 Trabalhador
-Mochileiros
-Mochileiras
+Viajante
+Viajante
 Pescador
 Músico
 Dançarino
@@ -34,7 +34,7 @@ Palhaço
 Artista
 Padeiro
 Psiquico
-Psiquico
+Psiquica
 Treinador Pokemon 
 Treinadora Pokemon 
 Team Plasma
@@ -65,7 +65,7 @@ Equipa Dupla
 Rapariga de Batalha
 Senhora com Guarda-sol
 Homem de Negócios
-Homem de Negócios
+Mulher de Negócios
 Fã Pokémon
 Fã Pokémon
 Treinador Veterano
