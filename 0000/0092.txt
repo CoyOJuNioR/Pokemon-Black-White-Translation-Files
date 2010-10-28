@@ -1,11 +1,11 @@
 ----------
 Link trade
 Link trade
-Kanto
-Johto
-Hoenn
-Sinnoh
-Distant land
+Kanto Region
+Johto Region
+Hoenn Region
+Sinnoh Region
+Distant lands
 ----------
 ----------
 ----------
