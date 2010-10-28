@@ -126,8 +126,8 @@ Sim
 Nao
 Queres informacao sobre que?
 Sobre o Mystery Gift
-Sobre o album de Cards
-When the album is full
+Sobre o álbum de Cartas
+Quando o álbum está cheio
 Voltar
 Mais informacao
 ふしぎな　おくりもの　では\xfffeつうしんを　つかって\xf000븁\x0000\xfffeすてきな　おくりものが　うけとれます\xf000븁\x0000\xfffeおくりものを　うけとれたら\xfffeぼうけんを　かいし　して\xf000븁\x0000\xfffeポケモンセンターに　いる\xf000븁\x0000\xfffeはいたついんから　もらってください\xf000?\x0000
