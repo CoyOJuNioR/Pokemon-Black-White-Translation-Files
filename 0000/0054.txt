@@ -82,7 +82,7 @@ Pedra do Sol
 Pedra da Lua
 Pedra do Fogo
 Pedra do Trovão
-Water Stone
+Pedra da Água
 Pedra da Folha
 PequenoCogumelo
 GrandeCogumelo
